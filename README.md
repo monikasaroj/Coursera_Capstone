@@ -1,5 +1,6 @@
 # Coursera_Capstone
-this repository will be mainly used for the capstone project
+This repository will be mainly used for the capstone project.
+
 The project includes the segmentation and clustering of Neighbourhoods in Toronto using K Means Machine Learning Clustering algorithm.
 
 week3_part2_b.PNG - The first map that contains the visualization of the various neighbourhoods in Canada whose borough has the word Toronto. Below is the link to view
